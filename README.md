@@ -1,4 +1,4 @@
-# AI-Driven-Audio-Protection-OSHA-Compliance-System
+# Adaptive DSP Audio Protection & Monitoring System
 
 **Project Background**
 This repository contains the technical implementation of a specialized headset system designed for construction site staff. This project was developed for **Unhack 2024**, a hackathon held by the **Lassonde School of Engineering at York University**. It represents the functional software core of a proposed smart PPE (Personal Protective Equipment) solution aimed at protecting worker hearing while maintaining site-wide communication.
